@@ -243,7 +243,7 @@
 }
 .before-footer .bottom {
   width: 100%;
-  height: 65vh;
+  height: 70vh;
   background: linear-gradient(128.09deg, rgba(255, 102, 133, 0.7) 12.03%, rgba(109, 100, 255, 0.7) 82.23%);
   position: absolute;
   bottom: 0;
@@ -251,6 +251,7 @@
  
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   
 }
 .bottom .sub {
